@@ -1,0 +1,32 @@
+{
+  "name": "laz",
+  "version": "0.0.1",
+  "description": "Lazily evaluate object properties.  Lazy require modules",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pllee/laz.git"
+  },
+  "keywords": [
+    "lazy",
+    "require",
+    "eval"
+  ],
+  "author": "Patrick Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pllee/laz/issues"
+  },
+  "homepage": "https://github.com/pllee/laz#readme",
+  "dependencies": {
+    "luc": "^0.3.1"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.1"
+  }
+}
