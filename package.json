@@ -1,6 +1,6 @@
 {
   "name": "laz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lazily evaluate object properties.  Lazy require modules",
   "main": "lib",
   "scripts": {
